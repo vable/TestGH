@@ -1,6 +1,6 @@
 module.exports = {
     //entry: "./js/MyApp.js",
-    //i am local
+    //i am local 1
     output: {
         path: __dirname,
         filename: "bundle.js"
